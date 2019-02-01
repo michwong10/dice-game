@@ -1,0 +1,28 @@
+section {
+  font-family: 'Raleway';
+  font-size: 5em;
+  line-height: 2em;
+  text-align: center;
+  background-color: thistle;
+}
+
+.dice-image{
+  width:10em;
+  height:10em;
+  background: white;
+  border: 0.25em solid purple;
+  border-radius: 0.15em;
+
+}
+
+.button {
+  font-family: 'Raleway';
+  font-size: 1em;
+  margin: 1em 0;
+  border-radius: 0.25em;
+  background-color: pink;
+}
+
+.btn:active {
+  background-color: red;
+}
